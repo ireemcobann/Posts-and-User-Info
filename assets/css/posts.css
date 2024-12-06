@@ -1,0 +1,35 @@
+
+.postContainer {
+    padding: 40px;
+}
+.postList {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 50px;
+}
+
+.post-card {
+    background-color: plum;
+    padding: 20px;
+    border-radius: 20px;
+}
+.post-card h3 {
+    font-size: x-large;
+}
+.body-content {
+    color: azure;
+    font-weight: 800;
+}
+strong {
+    color: purple;
+}
+
+.userComment {
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.commentContainer {
+padding: 10px;
+}
